@@ -1,1 +1,2 @@
-configuration.fortune=Sani
+configuration:
+  fortune: Sani
